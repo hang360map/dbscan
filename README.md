@@ -1,2 +1,2 @@
 # dbscan
-python 实现dbscan
+实现dbscan
